@@ -6,7 +6,7 @@
 This repository contains scripts and projects that are developed in the "Three Minutes Programming Series". This program shares video tutorials on TikTok and YouTube channels. The main scope of this programming series is to teach project building and programming fundamentals in short time.
 
 
-## Program Links
+## Media Links
 - TikTok: [@gunarakulan_gunaretnam](https://www.tiktok.com/@gunarakulan_gunaretnam)
 - English YouTube: [GR Tech School](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA)
 
