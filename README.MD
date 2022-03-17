@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This repository contains scripts and projects that are developed in the "Three Minutes Programming Series". This program shares video tutorials on TikTok and YouTube channels.
+This repository contains scripts and projects that are developed in the "Three Minutes Programming Series". This program shares video tutorials on TikTok and YouTube channels. The main scope of this programming series is to teach project building and programming fundamentals in short time.
 
 
 ## Program Links
