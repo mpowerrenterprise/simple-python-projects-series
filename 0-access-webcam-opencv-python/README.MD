@@ -9,10 +9,8 @@ With the help of OpenCV, we can capture a video from the camera. It lets you cre
 ## Installing Dependencies
 
 
-- Installing Playsound
-
   ```
-    pip install playsound
+    pip install opencv-python
   ```
 
 

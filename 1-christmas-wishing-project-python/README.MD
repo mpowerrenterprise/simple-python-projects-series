@@ -8,8 +8,6 @@ This is a simple program is written in python and turtle library. The objective 
 ## Installing Dependencies
 
 
-- Installing Playsound
-
   ```
     pip install playsound
   ```
