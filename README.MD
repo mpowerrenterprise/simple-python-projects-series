@@ -21,11 +21,11 @@ This repository contains scripts and projects that are developed in the "Simple 
 - Tamil YouTube: [GR Tamil Tech School](https://www.youtube.com/channel/UCjMOdgHFAjAdBKiqV8y2Tww)
 
 
-Any Questions? | Conduct Me
+Social Media Links
 ---
 
-* [Linkedin Profile](https://www.linkedin.com/in/gunarakulangunaretnam)
-* [Facebook Profile](https://www.facebook.com/gunarakulan)
+* [Linkedin Profile](https://www.linkedin.com/in/gunarakulangunaretnam/)
+* [Facebook Page](https://www.facebook.com/gunarakulangunaretnam)
 * [Twitter Profile](https://twitter.com/gunarakulang)
-* [Instagram Profile](https://www.instagram.com/gunarakulan_gunaretnam/)
-* [Youtube Channel](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA/videos)  
+* [Instagram Profile](https://www.instagram.com/gunarakulangunaretnam/)
+* [Youtube Channel](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA)
