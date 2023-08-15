@@ -16,8 +16,10 @@ This repository contains scripts and projects that are developed in the "Simple 
 Social Media Links
 ---
 
-* [Linkedin Profile](https://www.linkedin.com/in/gunarakulangunaretnam/)
-* [Facebook Page](https://www.facebook.com/gunarakulangunaretnam)
-* [Twitter Profile](https://twitter.com/gunarakulan)
-* [Instagram Profile](https://www.instagram.com/gunarakulangunaretnam/)
-* [Youtube Channel](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA)
+* [Linkedin:  ](https://www.linkedin.com/in/gunarakulangunaretnam)
+* [Facebook:  ](https://www.facebook.com/gunarakulangr.page)
+* [Twitter:   ](https://twitter.com/gunarakulangr)
+* [Instagram: ](https://www.instagram.com/gunarakulangunaretnam)
+* [TikTok:    ](https://www.tiktok.com/@gunarakulangunaretnam)
+* [Kaggle:    ](https://www.kaggle.com/gunarakulangr)
+* [Youtube:   ](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA)
