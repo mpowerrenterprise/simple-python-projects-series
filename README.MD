@@ -13,14 +13,6 @@ This repository contains scripts and projects that are developed in the "Simple 
 
 - Tamil Playlist: https://www.youtube.com/playlist?list=PLlswr-wq4Gu103PiiNYo1nDYgRjxkR0VT
 
-
-## Media Links
-- TikTok: [@gunarakulan_gunaretnam](https://www.tiktok.com/@gunarakulan_gunaretnam)
-- English YouTube: [GR Tech School](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA)
-
-- Tamil YouTube: [GR Tamil Tech School](https://www.youtube.com/channel/UCjMOdgHFAjAdBKiqV8y2Tww)
-
-
 Social Media Links
 ---
 
