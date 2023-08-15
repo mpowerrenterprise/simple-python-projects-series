@@ -18,8 +18,8 @@ Social Media Links
 
 * [Linkedin Profile](https://www.linkedin.com/in/gunarakulangunaretnam)
 * [Facebook Profile](https://www.facebook.com/gunarakulangr.page)
-* [Twitter Profile ](https://twitter.com/gunarakulangr)
 * [Instagram Profile](https://www.instagram.com/gunarakulangunaretnam)
-* [TikTok Profile](https://www.tiktok.com/@gunarakulangunaretnam)
+* [Twitter Profile ](https://twitter.com/gunarakulangr)
 * [Kaggle Profile](https://www.kaggle.com/gunarakulangr)
+* [TikTok Profile](https://www.tiktok.com/@gunarakulangunaretnam)
 * [Youtube Profile](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA)
