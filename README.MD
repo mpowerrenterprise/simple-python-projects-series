@@ -1,4 +1,4 @@
-# SIMPLE PYTHON PROJECTS SERIES
+# Simple Python Projects Series
 
 ## Introduction
 
@@ -13,7 +13,7 @@ This repository contains scripts and projects that are developed in the "Simple 
 - Tamil Playlist: https://www.youtube.com/playlist?list=PLlswr-wq4Gu103PiiNYo1nDYgRjxkR0VT
 
 
-# CONTACT
+# Contact
 
 ### Website: 
 
